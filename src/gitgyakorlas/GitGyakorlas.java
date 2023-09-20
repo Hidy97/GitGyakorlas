@@ -3,7 +3,7 @@ package gitgyakorlas;
 public class GitGyakorlas {
 
     public static void main(String[] args) {
-        metodus();
+        //metodus();
         for (int i = 0; i < 10; i++) {
             if (true) {
                 
@@ -11,7 +11,7 @@ public class GitGyakorlas {
         }
     }
 
-    private static void metodus() {
+    private void metodus() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
